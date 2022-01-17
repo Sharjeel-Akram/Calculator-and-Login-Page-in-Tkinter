@@ -1,1 +1,6 @@
 # Calculator-and-Login-Page-in-Tkinter
+
+1. Develop a calculator application that takes any arithmetic expression from a user and shows its result like any calculator does. You can use the built-in python functions to get the result of any expression. For example, there is a function name “eval” in python that gives you the result of any mathematical expression you don’t need to take care of the DMAS rule. If you pass a mathematical expression “2+4*4” to this function i.e eval("2+4*4"), it will give you the result 18. In your calculator application, this method can reduce your effort. The “eval” function is not necessary to use, you can also use any other Python function that may help you in this regard or you can also create your function.
+
+
+2. Develop an application that asks the user for the username and password. If the user enters the correct username and password then the user should be moved to the next welcome screen and this login screen should disappear after a successful authentication process. If the authenticationprocess is failed then a message “Try Again” should be displayed in front of the login button. (Note: Username for your application should be your name and password should be your RollNo.)
